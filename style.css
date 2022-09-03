@@ -1,0 +1,17 @@
+.txt{
+    position: absolute;
+    bottom: 0;
+ 
+}
+.wall{
+    width: 125px;
+    height: 30px
+}
+.wall1{
+    width: 45px;
+    height: 30px
+}
+.wall2{
+    width: 55px;
+    height: 30px
+}
